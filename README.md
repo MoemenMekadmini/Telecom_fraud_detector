@@ -1,6 +1,7 @@
 # Telecom Fraud Detector
 
 A Streamlit web app that classifies telecom call detail records (CDRs) as genuine or fraudulent, using an XGBoost model. Upload a CSV, get a per-record fraud prediction, review the flagged calls, and download the results.
+App url : https://telecomfrauddetector.streamlit.app/
 
 ## Background
 
