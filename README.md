@@ -5,7 +5,9 @@ App url : https://telecomfrauddetector.streamlit.app/
 
 ## Background
 
-Telecom fraud costs operators billions of dollars a year through schemes such as SIM box bypass and subscription fraud. Hand-written rule systems are hard to maintain and miss evolving patterns. This project trains a machine learning model on call-level behaviour to flag suspicious activity automatically.
+Telecom fraud has rapidly become a major problem within the telecommunications industry, costing companies billions of dollars annually all around the globe from dangerous scams such as: SIMBox, Subscription fraud, IRSF...
+With the rise of technology and various sophisticated schemes, detecting these types of fraud using basicrule-based systems has become more challenging. Therefore, we propose building a Machine Learning (ML) model that successfully detects these types of fraud more efficiently using algorithms such as XGBoost and Random Forest to prevent further security breaches and minimize financial losses.
+The provided solution is expected to improve detection accuracy while reducing false positives comparedto rule-based systems.
 
 ## What the app does
 
